@@ -4,7 +4,7 @@
 <p>mv    = move directory           = move a folder from "a" to "b"</p>
 <p>mkdir = make directory           = make a new folder</p>
 <p>rmdir = remove directory         = remove a folder</p>
-<p>pwd   = print working directory  = display which folder i am currently in</p>      
+<p>pwd   = print working directory  = display which folder you are currently in</p>      
 <p>exit  = exit terminal            = cease command line terminal</p>
 <p>ls    = list directory           = display contents of current folder</p>
 <p>rm    = remove file              = remove a file</p>
