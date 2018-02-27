@@ -1,15 +1,15 @@
-A command line terminal is to a computer, as commands are to a hypnotized human, if you know how to give the commands, the subject will do as instructed without quibble. The main difference being that with a computers command line terminal, the inputs are written.
+<p>A command line terminal is to a computer, as commands are to a hypnotized human, if you know how to give the commands, the subject will do as instructed without quibble. The main difference being that with a computers command line terminal, the inputs are written.</p>
 
-cd    = change directory         = move to a different folder
-mv    = move directory           = move a folder from a to be
-mkdir = make directory           = make a new folder
-rmdir = remove directory         = remove a folder
-pwd   = print working directory  = display which folder i am currently in      
-exit  = exit terminal            = cease command line terminal
-ls    = list directory           = display contents of current folder
-rm    = remove file              = remove a file
-pushd = push directory           = create location restore point
-popd  = pop directory            = go to previously saved restore point
-sudo  = super user root          = "HA you thought you had a say in the matter"
-11    = one higher 
+<p>cd    = change directory         = move to a different folder</p>
+<p>mv    = move directory           = move a folder from a to be</p>
+<p>mkdir = make directory           = make a new folder</p>
+<p>rmdir = remove directory         = remove a folder</p>
+<p>pwd   = print working directory  = display which folder i am currently in</p>      
+<p>exit  = exit terminal            = cease command line terminal</p>
+<p>ls    = list directory           = display contents of current folder</p>
+<p>rm    = remove file              = remove a file</p>
+<p>pushd = push directory           = create location restore point</p>
+<p>popd  = pop directory            = go to previously saved restore point</p>
+<p>sudo  = super user root          = "HA you thought you had a say in the matter"</p>
+<p>11    = one higher </p>
 
